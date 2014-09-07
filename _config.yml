@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Benjamin Bergner
 tagline:          The Jekyll Butler
-url:              "http://localhost:4000"
+url:              "http://benjaminbergner.github.io/"
 paginate:         1
-baseurl:          /
+baseurl:          _config.yml
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
