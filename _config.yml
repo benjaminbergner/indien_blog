@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Benjamin Bergner
 tagline:          The Jekyll Butler
-url:              "http://benjaminbergner.github.io/"
+url:              "http://benjaminbergner.github.io/benjaminbergner.github.io/"
 paginate:         1
 baseurl:          _config.yml
 author:
