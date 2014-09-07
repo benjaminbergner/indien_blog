@@ -19,7 +19,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/benjaminbergner/benjaminbergner.github.io
 
 pages_list:       
   About: '/about'
