@@ -10,7 +10,7 @@ title:            Benjamin Bergne
 tagline:          The Jekyll Butler
 url:              http://benjaminbergner.github.io/
 paginate:         1
-baseurl:          "http://benjaminbergner.github.io/
+baseurl:          http://benjaminbergner.github.io/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
