@@ -8,12 +8,9 @@ permalink:        pretty
 # Setup
 title:            Benjamin Bergne
 tagline:          The Jekyll Butler
-url:              "http://benjaminbergner.github.io"
+url:              http://benjaminbergner.github.io/
 paginate:         1
-baseurl:          "http://benjaminbergner.github.io"
-safe: true
-lsi: false
-
+baseurl:          "http://benjaminbergner.github.io/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
@@ -22,7 +19,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           "https://github.com/benjaminbergner/benjaminbergner.github.io"
+  repo:           https://github.com/poole/poole
 
 pages_list:       
   About: '/about'
