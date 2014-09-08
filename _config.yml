@@ -6,11 +6,14 @@ highlighter: 	  rouge
 permalink:        pretty
 
 # Setup
-title:            Benjamin Bergner
+title:            Benjamin Bergne
 tagline:          The Jekyll Butler
-url:              "http://benjaminbergner.github.io/"
+url:              "http://benjaminbergner.github.io"
 paginate:         1
-baseurl:          _config.yml
+baseurl:          "http://benjaminbergner.github.io"
+safe: true
+lsi: false
+
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
@@ -19,7 +22,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           "https://github.com/benjaminbergner/benjaminbergner.github.io"
 
 pages_list:       
   About: '/about'
