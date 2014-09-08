@@ -6,8 +6,8 @@ pygments:		  true
 permalink:        pretty
 
 # Setup
-title:            Benjamin Bergne
-tagline:          The Jekyll Butler
+title:            Benjamin Bergner
+tagline:          Blog
 url:              http://benjaminbergner.github.io/
 paginate:         1
 baseurl:          http://benjaminbergner.github.io/
