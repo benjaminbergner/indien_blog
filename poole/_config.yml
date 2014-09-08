@@ -13,7 +13,7 @@ paginate:         1
 baseurl:          "http://benjaminbergner.github.io/poole/"
 safe: true
 lsi: false
-source: 		  "http://benjaminbergner.github.io/poole/"
+
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
