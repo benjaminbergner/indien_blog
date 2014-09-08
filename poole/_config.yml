@@ -10,7 +10,7 @@ title:            Benjamin Bergner
 tagline:          The Jekyll Butler
 url:              "http://benjaminbergner.github.io/poole/"
 paginate:         1
-baseurl:          "_config.yml"
+baseurl:          "http://benjaminbergner.github.io/poole/"
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
