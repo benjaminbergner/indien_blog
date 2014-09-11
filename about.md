@@ -4,7 +4,7 @@ layout: page
 
 ![Bild von Benjamin Bergner](/images/Benjamin_Bergner.jpg)
 <br>
-Ich schaue euch mitten ins Gesicht, denn ihr, meine werten Leser, seid mir wichtig. Für euch schreibe ich über Dinge, von denen ich denke, dass sie interessant sind. An dieser Stelle möchte mich kurz vorstellen:
+Ich schaue euch mitten ins Gesicht, denn ihr, meine werten Leser, seid mir wichtig. Für euch schreibe ich über Dinge, von denen ich denke, dass sie interessant sind. An dieser Stelle möchte ich mich kurz vorstellen:
 <br><br>Benjamin Bergner. Wie der Berg, mit n-e-r hinten dran.
 
 Ich studiere in Magdeburg Wirtschaftsingenieurwesen und bin bald fertig. Es fehlen nur noch ein Praktikum und eine Bachelorarbeit. Das Praktikum verbringe ich in Indien. Von meinen Erfahrungen dort berichte ich hier.
