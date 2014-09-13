@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Benjamin Bergner
 tagline:          Blog
-url:              http://benjaminbergner.github.io/
+url:              http://benjaminbergner.net
 paginate:         1
-baseurl:          http://benjaminbergner.github.io/
+baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Benjamin Bergner
+  url:            https://benjaminbergner.net
+  email:          bergner.benjamin@gmail.com
 
 # Custom vars
 version:          1.0.0
