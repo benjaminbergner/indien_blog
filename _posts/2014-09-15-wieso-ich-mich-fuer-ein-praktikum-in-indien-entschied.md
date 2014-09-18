@@ -3,6 +3,9 @@ layout: post
 title: Wieso ich mich für ein Praktikum in Indien entschied
 permalink: wieso-ich-mich-fuer-ein-praktikum-in-indien-entschied
 comments: true
+categories: Indien
+image: Indien_Chennai_Map.png
+description: "Warum nach Indien reisen? Was ist interessant an Indien? In diesem Beitrag findet man die Antwort auf die Frage, warum ich mich für ein Praktikum in Indien entschieden habe."
 ---
 
 <p>Ganz einfach: Weil ich die Möglichkeit erhalten habe. Ich brauchte für mein Studium ein mindestens dreimonatiges Praktikum. Es war nicht primär von Bedeutung, wo genau ich hingehen werde, ich bin für vieles offen. Ich wusste zu Beginn nur, dass ich das Praktikum im Ausland absolvieren und dabei die weltweit wichtigste Sprache Englisch lernen möchte. Vielleicht ist Indien aufgrund des dortigen Akzents nicht die beste Wahl, wenn man ausschließlich das Englisch lernen fokussiert. Doch mit der Zeit entwickelten sich bei mir Gedanken, die weiter reichten: Kultur, Menschen, neue Denkweisen und Chancen, Arbeitswelt, Herausforderungen, die Liebe zum Reisen. Ich bekam Lust etwas für mich völlig neues zu entdecken.</p>
