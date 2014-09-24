@@ -1,0 +1,49 @@
+---
+layout: post
+title: Wie ich meine Reise nach Indien organisierte – Teil 1
+permalink: wie-ich-meine-reise-nach-indien-organisierte-teil-1
+comments: true
+categories: Indien
+image: meine_reiselektuere.jpg
+description: "Organisation ist die halbe Miete, pflegte schon mein Opa zu sagen. Auf dem Weg zur Indienreise gab es einige Hürden zu nehmen. In diesem Beitrag erkläre ich, wie man sie überwindet."
+---
+
+<p>Bevor es losgeht, gibt es noch jede Menge vorzubereiten. Von der ersten Nachfrage der Möglichkeit eines Praktikums bis zum tatsächlichen Reiseantritt verging 1 Jahr. Im Nachhinein wünschte ich, dass ich mir weniger Zeit dafür genommen hätte, da es wenig Fristen einzuhalten galt. Das weniger an Zeit hätte ich jedoch gern gegen mehr Wissen getauscht, um Stress und Ängste auf dem Weg zum Ziel zu mindern.</p>
+<p>Falls das nächste Mal Fernweh aufkommt, soll es an der Planung nicht scheitern. In diesem Beitrag versuche ich deshalb einige Tipps zur Organisation eines Auslandsaufenthaltes (in Indien) zu geben.</p>
+<h3>Wissen ist Macht</h3>
+<p>…und Ängste entstehen nur durch fehlende Informationen. Dass Menschen Angst haben, ist völlig normal und hilfreich, sie dient als Schutzreaktion. Mit einigen Erfahrungsträgern als Ansprechpartner kann man diese Unwissenheit und somit Ängste abbauen. Eine Studentin, die ein halbes Jahr in Indien verbrachte, der indische HR Manager in Chennai, mein Praktikumsvermittler und zwei weitere Inder, die ich glücklicherweise kennenlernen durfte, haben mir geholfen nötiges Wissen zu sammeln.</p>
+<p>Auch Reiselektüre in Form von Ratgebern und Erfahrungsberichten helfen Unsicherheiten zu beseitigen. Der Südindien-Reiseführer von Lonely Planet, Marco Polo und der Ratgeber „Kulturschock Indien“ von Rainer Krack enthalten wichtige Wissensstützen und waren für mich eine unterhaltsame und informationsreiche Vorbereitung auf Chennai und Indien.</p>
+
+![Bild meiner Reiselektüre](/images/meine_reiselektuere.jpg "Meine Reiselektüre")
+<small>Meine Reiselektüre</small>
+
+<h3>Geduld</h3>
+<p>Noch nicht einmal in Indien angekommen merke ich schon jetzt, dass Geduld und eine Ruhig-Blut-Mentalität wichtige Charakteristiken sind, die ich mir schnell noch besser aneignen sollte. Wochen-, manchmal monatelange Wartezeiten auf Mail-Antworten nach mehreren Nachfragen kamen nicht selten vor.</p>
+<p>Ich hatte bereits ein ausgeklügeltes System entwickelt, wie ich mir erhofft habe Antworten aus meinem wichtigsten Ansprechpartner, dem HR Manager, herauszukitzeln. Ich nahm mir vor, immer 2 Wochen nach der ersten Mail zu warten, bis ich die erste Nachfrage nachsandte. Danach immer im 1-Wochen-Takt. Ich wollte schließlich das Gemüt meines Ansprechpartners nicht allzu sehr zerrütten. Die höfliche Form, immer nur die wichtigsten Angelegenheiten (Arbeitsvertrag, Wohnung, Inhalte des Praktikums) zu klären und geeignete <a href="http://www.businessinsider.sg/getting-busy-people-to-read-your-emails-2014-7/">Email-Tipps</a> anzuwenden wurde zur Selbstverständlichkeit.</p>
+
+![Yoga in Indie](/images/yoga_in_indien.jpg "Yoga in Indien")
+<small>Geduld: Die große Tugend<br>
+„<a href="http://commons.wikimedia.org/wiki/File:Bhyragai_-_Vairagya_-..jpg#mediaviewer/File:Bhyragai_-_Vairagya_-..jpg">Bhyragai - Vairagya</a>“ von Day &amp; Son (Lithographer)<br>
+<a rel="nofollow" class="external free" href="http://digitalgallery.nypl.org/nypldigital/dgkeysearchdetail.cfm?trg=1&amp;strucID=103582&amp;imageID=481297&amp;word=india&amp;s=1&amp;notword=&amp;d=&amp;c=&amp;f=&amp;k=0&amp;lWord=&amp;lField=&amp;sScope=&amp;sLevel=&amp;sLabel=&amp;sort=&amp;total=1672&amp;num=1440&amp;imgs=20&amp;pNum=&amp;pos=1458">digitalgallery</a>, Lizenz: <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a></small>
+
+<p>Doch weshalb bleiben Antworten eigentlich aus? Sind Inder mit dem Computer nicht vertraut oder haben Sie vielleicht keine? Wohl kaum…ist Indien doch ein Land mit vielen <a href="http://www.indienheute.de/erfolgsstory-it-in-indien-was-macht-den-standort-so-attraktiv/">IT-Experten</a> und Ingenieuren. Vielleicht Ist es aber die indische Mentalität? Die Studentin, die ein halbes Jahr in Indien lernte, sagte mir, dass es normal sei sich erst dann zu melden, wenn die Zeit gekommen ist, wenn es also wichtig und notwendig wird. Und wenn es sehr wichtig ist, ruft man an. Wenn niemand rangeht, ruft man nochmal an, und wenn dann niemand rangeht,…geeenau.</p>
+<h3>Here‘s my number, so call me maybe</h3>
+<p>Meine Erkenntnis aus dem Gespräch mit der Studentin setzte ich sofort in die Tat um. Zugegeben, anfangs habe ich mich gesträubt in Indien anzurufen, da mir berichtet wurde, dass es am Telefon sehr schwer ist den indisch-englischen Akzent zu verstehen. Zudem hatte ich zu dieser Zeit noch keine ausreichend guten Sprachkenntnisse. Als jedoch nach vielen Wochen noch immer keine Mail zurückkam, wurde mir die ursprüngliche Bedeutung eines Telefons wieder bewusst. Also schnell die +91 vorgewählt, try and error…</p>
+<p>Die Ernüchterung nach dem Gespräch war groß. Geschätzte 5% konnte ich verstehen und selbst nur wenig hervorbringen. Das Gespräch hinterließ bestimmt einen super Eindruck. Die nächste Handy-Rechnung hinterließ zudem einen faden Beigeschmack:  Fast 10 € für 3 Minuten Gesprächszeit. Aufgeteilt auf ca. 5 € für die Telefon-Hin-Kosten und nochmal 5 € für die Telefon-Rück-Kosten. Das macht ungefähr 1 Euro pro verstandenes Wort. Da ist noch Potential.</p>
+
+![Ausschnitt meiner Mobilfunkrechnung](/images/internationale_verbindungsuebersicht.png "Geld aus dem Fenster werfen ist leichter als gedacht")
+<small>Telefonieren nach Indien kann teuer sein</small>
+
+<h3>Kommunikation</h3>
+<p>Ich habe gelernt, dass es wichtig ist das Offensichtliche auszusprechen, damit es in der Praxis verstanden wird. Deshalb: Englisch lernen! Englische Nachrichten, Fach- oder Sachbücher lesen und immer darauf achten, dass es interessant ist. Bei Schlafproblemen ist es übrigens höchst empfehlenswert, trockene Lektüre zu konsumieren. Expertentipp: Dabei das Licht dämmen.</p>
+<p>Auch Filme oder Serien auf Englisch (erst mit englischem Untertitel, später ohne) zu schauen hat mir weitergeholfen. Eine weitere einfache, aber wichtige Methode: Sobald man unbekannte Wörter liest, sollte man sie schnell nachsehen, z.B. über mobile Apps wie <a href="http://www.dict.cc/">dict.cc</a> oder <a href="http://dict.leo.org/ende/index_de.html">leo.org</a>. Anfangs ist es anstrengend. Man sieht oft und teilweise dieselben Wörter mehrmals nach, weil unwichtige Sachen den Kopf blockieren und der neue Sprachschatz noch keine Relevanz hat. Aber nach und nach wird es besser, die englische Sprache entwickelt sich. Ein weiterer Tipp ist die wunderbare und unterhaltsame <a href="http://de.wikipedia.org/wiki/Vera_F._Birkenbihl">„Birkenbihl-Show“</a>, die ich jedem ans Herz legen möchte.</p>
+
+<iframe width="700" height="480" src="//www.youtube-nocookie.com/embed/A5ulmNa-8yw?rel=0" frameborder="0" allowfullscreen></iframe><br>
+<small>Frau Birkenbihl stellt Ihre Methode zum Sprachen lernen vor</small>
+
+<p>Der wichtigste Tipp jedoch ist das Sprechen. Selbst mit wenig Vokabular kann man sich wunderbar verständigen, wenn man diese Vokabeln schon einmal in eigenen Sätzen verwendet hat. Die Frage ist, in welchen Situationen man Englisch spricht, wenn man nicht die Möglichkeit hat sich im Ausland vorzubereiten? Nein, Selbstgespräche kommen nicht in Frage.</p>
+<p>Wenn man extrovertiert ist, kann man z.B. an die nächste Uni gehen und mit ausländischen Studenten reden. Einfach ansprechen, sie werden über die spontane Gelegenheit deutsche Personen (und vielleicht auch die Sprache) kennenzulernen sehr froh sein. Auch wenn es nur Small-Talk ist und euch die Person nicht wirklich interessiert, macht man hiermit einen wichtigen Schritt in Richtung fließendes Sprechen.</p>
+<p>Glücklicherweise hatte ich die Möglichkeit neben meinem Studium im wohl besten Startup der Welt zu arbeiten: <a href="https://www.locafox.de/">Locafox!</a> Locafox kann man sich wie Amazon vorstellen, jedoch kauft man nicht online ein, sondern man sucht online nach einem Laden in der Nähe, bei dem man sein Produkt dann reservieren und abholen kann. Bei Locafox hatte ich jeden Tag die Möglichkeit mit Leuten aus aller Welt auf Englisch zu reden, u.a. auch mit einem Inder. Obwohl ich nur 3 Monate im Berliner Startup verbrachte, hat es mich in meiner Sprachkompetenz erheblich weitergebracht. Zudem bekam ich dort einen Tipp, wie ich meine Telefonkosten für Auslandsgespräche senken könnte: Ortel.</p>
+<p>Mit diesem Prepaid-Karten-Anbieter aus dem E-Plus-Netz kann man mit wenig Geld ins Ausland telefonieren. Für Indien macht Ortel Werbung mit unglaublichen 1 Cent je Minute. Nach weiterer Recherche musste ich jedoch feststellen, dass dieser Minutenpreis nur für Anrufe ins Festnetz gilt. Für Anrufe ins Mobilfunknetz bezahlt man 15 Cent je Minute. Zudem kommen weitere einmalige Kosten von 15 Cent pro Anruf zustande, unabhängig davon, ob man ins Fest- oder Mobilfunknetz telefoniert. Aber all dies ist kein Grund zum lamentieren, würde ich doch beim nächsten Anruf mehrere 100% im Vergleich zum letzten Telefonerlebnis sparen.</p>
+<p>Ein paar Monate nach dem ersten Telefonat und mit neuem Mut rief ich erneut an, um eine weitere Angelegenheit zu klären. Und siehe da: Dieses Mal habe ich 75% verstanden, darunter die wichtigsten Inhalte. Ich konnte zudem selbst mitreden, Fragen stellen und so kommunizieren, als würde ich in deutscher Sprache telefonieren. Und zusammengerechnet habe ich für dieses zweite Gespräch nur 1,50€ bezahlt. Wenn das mal nichts ist…</p>
+<p>Im nächsten Teil dieses Beitrags gebe ich Tipps zum sozialen Umfeld, Zukunftsgedanken und dem nötigen Kleingeld.</p>
