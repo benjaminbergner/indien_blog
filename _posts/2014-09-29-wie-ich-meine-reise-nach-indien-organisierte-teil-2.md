@@ -5,7 +5,7 @@ permalink: wie-ich-meine-reise-nach-indien-organisierte-teil-2
 comments: true
 categories: Indien
 image: cat_shocked.jpg
-description: "Im zweiten Teil gebe ich weitere Einblicke in die Organisation einer Indienreise - Dieses mal dreht sich alles um Gesundheit, Geld und den Umgang mit Vorurteilen."
+description: "Im zweiten Teil gebe ich weitere Einblicke in die Organisation einer Indienreise - Dieses Mal dreht sich alles um Gesundheit, Geld und den Umgang mit Vorurteilen."
 ---
 
 <p>Beinahe am Ziel und weiterhin gibt es so einiges zu erledigen. Deshalb hier Teil 2 mit Tipps zu Vorurteilen, Zukunftsgedanken, Gesundheit und dem nötigen Kleingeld.</p>
