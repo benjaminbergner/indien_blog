@@ -4,7 +4,7 @@ title: Die ersten Tage in Indien
 permalink: die-ersten-tage-in-indien
 comments: true
 categories: Indien
-image: Blick_auf_Marina_Beach.jpg
+image: Kapaleeshwarar_Tempel_Pavillon.jpg
 description: "In Indien angekommen wollte ich sofort alles von der Südmetropole Chennai sehen und gewann dabei wichtige Eindrücke"
 ---
 
