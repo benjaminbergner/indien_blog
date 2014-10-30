@@ -5,7 +5,7 @@ permalink: eine-lobeshymne-an-die-rikscha
 comments: true
 categories: Indien
 image: rikscha_muelltonne.jpg
-description: "Rikschas sind DAS Verkehrsmittel Indiens. In diesem Beitrag gebe ich einen Eindruck davon, was einem unerfahrenen Europäer beim Zusammentreffen mit Rikschafahrern alles passieren kann."
+description: "Die Rikscha ist DAS Verkehrsmittel Indiens. In diesem Beitrag gebe ich einen Eindruck davon, was einem unerfahrenen Europäer beim Zusammentreffen mit Rikschafahrern alles passieren kann."
 ---
 
 <p>Chennai ist eine weitläufige, sehr heiße Stadt ohne Mittelpunkt. Man findet überall Menschen und starken Verkehr. Die Rikschas sind meiner Meinung nach zusammen mit indischen Bussen die unterhaltsamsten Möglichkeiten sich schnell in der Stadt zu bewegen. Eine Straßenbahn oder U-Bahn gibt es bislang nicht, sie befindet sich noch im Bau. Wenn ich berichte, wie ich meine Tage verbringe, so habe ich bisher nicht angesprochen, wie ich von A nach B gelange. Das möchte ich hier nachholen.
