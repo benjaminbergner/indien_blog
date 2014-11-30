@@ -23,7 +23,7 @@ description: "Es hat wirklich nur kurze Zeit gebraucht, bis mich im weiten Indie
 <p>Boah, diese ganzen motivierten Morgensportler. Es ist halb 7 und Pondicherry powerwalkt und dehnt sich. Mein Morgensport beschränkte sich auf das Heben/Drücken der Kamera:</p>
  
 ![Abbildung der Südseite der Strandpromenade](/images/pondi_morgenstrand.jpg "Südseite der Strandpromenade") 
-<small>Südseite der Strandpromenade: ein beliebter Ort Ausgangspunkt für Morgensportler</small>
+<small>Südseite der Strandpromenade: ein beliebter Ausgangspunkt für Morgensportler</small>
 
 ![Abbildung](/images/pondi_strand.jpg "")
 <small>„Grobkörniges Gelände“ macht das Baden hier nicht gerade einfach.</small>
