@@ -54,7 +54,7 @@ description: "Es hat wirklich nur kurze Zeit gebraucht, bis mich im weiten Indie
 
 <p>Heute war nicht nur ein Tag innerhalb des Puja-Festes, auch feierte man heute den Geburtstag Mahatma Gandhis und nahm die Situation zum Anlass um gegen Umweltverschmutzung zu protestieren. Diese stellt in Indien ein äußerst schwerwiegendes Problem dar. Pondicherry ist mit dem französischen Viertel und der Strandpromenade auf dem richtigen Weg. Umso mehr man sich jedoch von diesen touristischen Plätzen entfernt, umso schlimmer wird es.</p>
 
-![Abbildung des Gandhi-Denkmals](/images/Gandhi_statue.jpg "Das Gandhi-Denkmal") 
+![Abbildung des gandhi-Denkmals](/images/Gandhi_statue.jpg "Das Gandhi-Denkmal") 
 <small>Ein Podest steht zur Schmückung Gandhis bereit.</small>
 
 ![Abbildung einer Demo gegen Dreck](/images/stop_litter.jpg "Demo gegen Dreck") 
