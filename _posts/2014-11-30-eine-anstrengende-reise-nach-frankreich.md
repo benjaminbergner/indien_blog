@@ -28,7 +28,7 @@ description: "Es hat wirklich nur kurze Zeit gebraucht, bis mich im weiten Indie
 ![Abbildung](/images/pondi_strand.jpg "")
 <small>„Grobkörniges Gelände“ macht das Baden hier nicht gerade einfach.</small>
 
-<p>Mit der aufgehenden Sonne folgte ich der Promenadenstraße, bis ich auf ein kleines Café stoß. Hier ließ ich mich mit Croissant und Kaffee verwöhnen. Moment, wieso eigentlich Croissants? Und wieso schreibe ich von einer anstrengenden Reise nach Frankreich? Nun, die Stadt war mal unter französischer Herrschaft. Und das merkt man auch heute noch. Diese Kolonialzeit hat seine positiven Seiten. Das war echt ein super Frühstück.</p>
+<p>Mit der aufgehenden Sonne folgte ich der Promenadenstraße, bis ich auf ein kleines Café stieß. Hier ließ ich mich mit Croissant und Kaffee verwöhnen. Moment, wieso eigentlich Croissants? Und wieso schreibe ich von einer anstrengenden Reise nach Frankreich? Nun, die Stadt war mal unter französischer Herrschaft. Und das merkt man auch heute noch. Diese Kolonialzeit hat seine positiven Seiten. Das war echt ein super Frühstück.</p>
 <p>Sobald man einigen Straßenverästelungen folgt, fühlt man sich wie in Europa. Von staubigen Wegen sieht man auf einmal Pflastersteine. Vertrocknete Sträucher werden zu bunten Blumen und zauberhaften Bäumen, die Straßen tragen auf einmal Schilder mit französischen Namen und die Menschen erscheinen hier internationaler. Ich liebe dieses Flair.</p>
 
 ![Abbildung französischer Straßennamen](/images/franz_strassenecke.jpg "Französische Straßennamen")
