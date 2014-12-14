@@ -5,7 +5,7 @@ permalink: durchatmen-bei-einem-wandertrip-durch-kodaikanal
 comments: true
 categories: Indien
 image: kodai_benjamin_auf_der_dolphins_nose.jpg
-description: ""
+description: "Wenn man 'Berg' im Namen stehen hat, dann wird einem Wanderlust ja schon in die Wiege gelegt. Dementsprechend dauerte es nicht lang, bis ich mich ins Gebirge verirrt habe."
 ---
 
 <p>Morgendliche Kälte und Bewegungen des durch die huggeligen Straßen polternden Busses weckten mich früh am Morgen. Auf die Temperaturunterschiede in den Bergen Kodaikanals hatte ich mich nicht vorbereitet. Heute werde ich durch das idyllische Palani-Gebirge in 2200 Meter Höhe wandern. Aber davor… wo bin ich eigentlich genau?</p>
@@ -87,7 +87,7 @@ description: ""
 ![Abbildung einer Straße in dichtem Nebel](/images/kodai_nebel.jpg "Dichter Nebel")
 <small>Nebel, überall Nebel</small>
 
-<p>Als wir mit dem Auto eines der Jungs zurück in die Stadt fuhren, hielt uns die Polizei an. An einer steilen Bergstraße wurde auf ein ominöses Dokument überprüft, von dem bisher keiner etwas gehört hat. Gegen ein kleines Entgelt durften wir die Fahrt vorsetzen. Es stank hier in der sonst klaren Luft ein wenig nach Korruption. Wie dem auch sei... wir versuchten anschließend den Tag mit einem gemeinsamen Bier ausklingen zu lassen. Besonders in Tamil Nadu ist dies etwas, was man öffentlich nicht begrüßt. Ich merkte wie besonders und heimlich das allen erschien. Leider war im Geschäft, was viel mehr wie eine unaufgeräumte Garage aussah, nichts mehr vorhanden. Stattdessen lud mich die Gruppe zum Essen ein. Ich konnte mir nicht verkneifen zu fragen, wieso alle Inder so gastfreundschaftlich sind. Daraufhin wurde mir erklärt, dass die Religion vorschreibt Gäste wie Götter zu behandeln.</p>
+<p>Als wir mit dem Auto eines der Jungs zurück in die Stadt fuhren, hielt uns die Polizei an. An einer steilen Bergstraße wurde auf ein ominöses Dokument überprüft, von dem bisher keiner etwas gehört hat. Gegen ein kleines Entgelt durften wir die Fahrt fortsetzen. Es stank hier in der sonst klaren Luft ein wenig nach Korruption. Wie dem auch sei... wir versuchten anschließend den Tag mit einem gemeinsamen Bier ausklingen zu lassen. Besonders in Tamil Nadu ist dies etwas, was man öffentlich nicht begrüßt. Ich merkte wie besonders und heimlich das allen erschien. Leider war im Geschäft, was viel mehr wie eine unaufgeräumte Garage aussah, nichts mehr vorhanden. Stattdessen lud mich die Gruppe zum Essen ein. Ich konnte mir nicht verkneifen zu fragen, wieso alle Inder so gastfreundschaftlich sind. Daraufhin wurde mir erklärt, dass die Religion vorschreibt Gäste wie Götter zu behandeln.</p>
 <p>Erschöpft wartete ich auf den Bus zurück nach Chennai. Ich dachte über den heutigen Tag nach. Kodaikanal kam mir wie ein Ort vor, in dem die Einwohner doch denken mussten: „Bah, Indien, das ist nichts für mich. Ich verschwinde von hier.“ Ein kleiner feiner Zufluchtsort für Menschen, die sich nicht jeden Tag dem Lärm der Überbevölkerung hingeben wollen und denen Dreck zwar bekannt, aber nicht allgegenwärtig erscheinen möchte. Kodaikanal ist ein Geheimtipp.</p>
 <p>Auf der Rückfahrt stand die ganze Zeit über die Vordertür offen, damit der Fahrer die linke Streckenbegrenzung sieht. Auf ebenen Straßen kann es ja schon mal abenteuerlich werden, aber im Gebirge wird es nochmal einen Zacken gefährlicher. Wenn man fit ist, kann so eine Fahrt Spaß machen. Für mich war es eine Qual. Den nächsten Tag verbrachte ich mit schlafen… bis in den späten Nachmittag. Zurückblickend war das eine geniale Erfahrung. Da bald Diwali, ein weiteres bedeutendes Fest anstand, konnte ich einige Tage später eine weitere Tour aufnehmen. Doch dann mit mehr Vorwissen und ein wenig organisierter…</p>
 
@@ -96,4 +96,4 @@ description: ""
 ![Abbildung Nutellabrot mit Banane](/images/bananenschokotoast.jpg "Nutellabrot mit Banane")
 <small>Geröstetes Weißbrot in Rechteckform, gestrichen mit edler italienischer Schokoladenmousse, verfeinert mit indischen Bananenstücken</small> 
 
-<p>Man lobt ja eigenes Essen immer ein wenig mehr, aber ich muss leider zugeben: Es sieht besser aus als es schmeckt. Ich denke, es fehlt noch ein wenig geschmolzene Schokolade darauf. Kritik und Verbesserungsvorschläge sind gern gesehen!
+<p>Man lobt ja normalerweise eigenes Essen immer ein wenig mehr, aber ich muss leider zugeben: Es sieht besser aus als es schmeckt. Ich denke, es fehlt noch ein wenig geschmolzene Schokolade darauf. Kritik und Verbesserungsvorschläge sind gern gesehen!
