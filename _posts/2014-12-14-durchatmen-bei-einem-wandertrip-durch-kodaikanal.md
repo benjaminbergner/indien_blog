@@ -8,7 +8,7 @@ image: kodai_benjamin_auf_der_dolphins_nose.jpg
 description: "Wenn man 'Berg' im Namen stehen hat, dann wird einem Wanderlust ja schon in die Wiege gelegt. Dementsprechend dauerte es nicht lang, bis ich mich ins Gebirge verirrt habe."
 ---
 
-<p>Morgendliche Kälte und Bewegungen des durch die huggeligen Straßen polternden Busses weckten mich früh am Morgen. Auf die Temperaturunterschiede in den Bergen Kodaikanals hatte ich mich nicht vorbereitet. Heute werde ich durch das idyllische Palani-Gebirge in 2200 Meter Höhe wandern. Aber davor… wo bin ich eigentlich genau?</p>
+<p>Kälte und Bewegungen des durch die huggeligen Straßen polternden Busses weckten mich früh am Morgen. Auf die Temperaturunterschiede in den Bergen Kodaikanals hatte ich mich nicht vorbereitet. Heute werde ich durch das idyllische Palani-Gebirge in 2200 Meter Höhe wandern. Aber davor… wo bin ich eigentlich genau?</p>
 
 ![Abbildung der Karte meines ersten Südtrips](/images/karte_kanyakumari_kodai.png "Karte meines ersten Südtrips") 
 <small>Vom Strand in die Berge <a href="http://www.openstreetmap.org/">© OpenStreetMap und Mitwirkende</a>, <a href="ttp://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a></small>
