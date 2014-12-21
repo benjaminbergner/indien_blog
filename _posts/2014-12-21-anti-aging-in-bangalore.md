@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anti-Aging in Bangalore
-permalink: anti_aging_in_bangalore
+permalink: anti-aging-in-bangalore
 comments: true
 categories: Indien
 image: benjamin_nach_anti_aging_kur.jpg
