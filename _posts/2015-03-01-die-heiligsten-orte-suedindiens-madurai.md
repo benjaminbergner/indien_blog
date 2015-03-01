@@ -74,25 +74,25 @@ description: "Mit der Stadt Madurai und dem Minakshi-Tempelkomplex beginnt meine
 
 <p>Im Tempel selbst wurde ich von einem kapitalistischen Elefanten begrüßt. Man musste diesem 10 Rupien zum Rüssel reichen, die er sich schnell wegsteckte und einem folglich auf den Kopf stupst. Nicht nur bin ich heute typisch indisch gekleidet, ich wurde am gleichen Tag auch noch vom Tempelelefanten gesegnet. Furchtbar begeistert hat mich die 1000 Säulen-Halle mit einem Shiva-Schrein an deren Ende. Man fühlt sich direkt wie im siebten Himmel, doch schaut selbst…</p>
 
-![Abbildung des Tempels](/images/Minakshi1.jpg "Verzierungen an der Decke")
+![Abbildung des Tempels](/images/minakshi1.jpg "Verzierungen an der Decke")
 <small>Der erste Eindruck vom Tempel: Wow</small>
 
-![Abbildung des Tempels](/images/Minakshi2.jpg "Kerzen im Tempel")
+![Abbildung des Tempels](/images/minakshi2.jpg "Kerzen im Tempel")
 <small>Viele Gläubige legen Kerzen vor Gottheiten.</small>
 
-![Abbildung des Tempels](/images/Minakshi3.jpg "Im Tempel...")
+![Abbildung des Tempels](/images/minakshi3.jpg "Im Tempel...")
 <small>Viele schöne Säulen und die düstere Atmosphäre brennen sich in meine Erinnerungen</small>
 
-![Abbildung der 1000-Säulen Halle](/images/Minakshi4.jpg "Die 1000-Säulen Halle")
+![Abbildung der 1000-Säulen Halle](/images/minakshi4.jpg "Die 1000-Säulen Halle")
 <small>Aus der 1000-Säulen Halle...</small>
 
-![Abbildung der 1000-Säulen Halle](/images/Minakshi5.jpg "Die 1000-Säulen Halle")
+![Abbildung der 1000-Säulen Halle](/images/minakshi5.jpg "Die 1000-Säulen Halle")
 <small>...die als Kunstmuseum genutzt wird und an deren Ende ein Shiva-Schrein zu sehen ist.</small>
 
-![Abbildung von Verkäufern im Tempel](/images/Minakshi7.jpg "Verkäufer im Tempel")
+![Abbildung von Verkäufern im Tempel](/images/minakshi7.jpg "Verkäufer im Tempel")
 <small>Auch viele Verkäufer tummelten sich hier.</small>
 
-![Abbildung des Tempelbeckens](/images/Minakshi8.jpg "Das Tempelbecken")
+![Abbildung des Tempelbeckens](/images/minakshi8.jpg "Das Tempelbecken")
 <small>Das Tempelbecken</small>
 
 <p>Als ich am Abend sogar ein Dachrestaurant mit heißer Pfanne entdeckt habe, war dieser Ort definitiv auf meiner Heiligenliste!</p>
