@@ -57,10 +57,10 @@ description: "Mit der Stadt Madurai und dem Minakshi-Tempelkomplex beginnt meine
 ![Abbildung der 100m langen Saeulenhalle](/images/bazaar_saeulenhalle.jpg "Die 100m lange Säulenhalle")
 <small>Die 100m lange Säulenhalle Pudhu Mandapa in der Nähe des Minakshi-Amman-Tempels mit einer Vielzahl an Schneidern und Verkäufern</small>
 
-![Abbildung des Osteingangs zum Tempel](/images/Minakshi_tempel_tower_madurai.jpg "Der Osteingang zum Tempel")
+![Abbildung des Osteingangs zum Tempel](/images/minakshi_tempel_tower_madurai.jpg "Der Osteingang zum Tempel")
 <small>Einer der vier Eingänge zum Minakshi-Amman-Tempel</small>
 
-![Abbildung Ausblick vom Dach](/images/Minakshi_vom_dach.jpg "Ausblick vom Dach")
+![Abbildung Ausblick vom Dach](/images/minakshi_vom_dach.jpg "Ausblick vom Dach")
 <small>Ein Verkäufer bot mir die Aussicht vom Dach</small>
 
 ![Abbildung der Nandi-Kuh](/images/nandi_madurai.jpg "Die Nandi-Kuh")
