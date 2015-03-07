@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Heiligsten Orte Südindiens - Puttaparthi und Tirupati
-permalink: die-heiligsten-orte-suedindiens-Puttaparthi-und-Tirupati 
+permalink: die-heiligsten-orte-suedindiens-puttaparthi-und-tirupati 
 comments: true
 categories: Indien
 image: tiru_end.jpg
