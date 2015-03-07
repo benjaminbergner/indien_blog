@@ -4,8 +4,8 @@ title: Die Heiligsten Orte Südindiens - Puttaparthi und Tirupati
 permalink: die-heiligsten-orte-suedindiens-Puttaparthi-und-Tirupati 
 comments: true
 categories: Indien
-image: 
-description: ""
+image: tiru_end.jpg
+description: "Hier ist was los. Von Glaubensrufen, Meditation und Fledermäusen, die sich bei diesen freunlichen Menschen auch am Tag blicken lassen."
 ---
 
 <p>In meinem letzten Beitrag aus dieser Reihe möchte ich zwei weitere heilige Orte vorstellen. Einmal Puttaparthi, perfekt zum Meditieren, und Tirupati mit seinem Pilgerweg zum reichsten Tempel der Welt.</p>
