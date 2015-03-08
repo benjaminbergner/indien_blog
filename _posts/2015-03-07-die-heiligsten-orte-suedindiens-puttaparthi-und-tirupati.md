@@ -117,7 +117,7 @@ description: "Hier ist was los. Von Glaubensrufen, Meditation und Fledermäusen,
 <small>Und weiter gehts auf die andere Seite.</small>
 
 ![Abbildung Zombies](/images/tiru_zombies.jpg "Indische Zombies")
-<small>Wer sich schon immer mal gefragt hat, wie eine Zombieapokalypse aussehen würde: Stellt euch nach oben und schaut zu, wie diese hochgläubigen Inder auf euch zuschleichen. Bereits im christlichen Velankanni hab ich solche Prozeduren gesehen. Mir wurde gesagt, dass es eine Form des Sündigens ist.</small>
+<small>Wer sich schon immer mal gefragt hat, wie eine Zombieapokalypse aussehen würde: Stellt euch nach oben und schaut zu, wie diese hochgläubigen Inder auf euch zuschleichen. Bereits im christlichen Velankanni hab ich solche Prozeduren gesehen. Mir wurde gesagt, dass es eine Form des Buße-Tuns ist. Man solle für seine Sünden leiden.</small>
 
 ![Abbildung die letzte Stufe](/images/tiru_end.jpg "Die letzte Stufe")
 <small>Nach 6 Stunden alle Treppen geschafft.</small>
